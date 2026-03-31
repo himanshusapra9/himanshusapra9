@@ -26,7 +26,7 @@ I believe the best products don't just launch — they **learn, improve, and sca
 - 🎯 **Senior Technical Product Manager at eBay** — building next-generation marketplace experiences
 - 🏢 Led product and engineering initiatives at **Walmart Global Tech** and **Amazon** — improving customer experience, reducing friction, and unlocking business growth
 - 🏥 Drove digital transformation at **Northwestern Memorial / Lurie Children's Hospital** — Epic-certified, bridging healthcare and technology
-- 🎓 **Purdue University** (MS, 4.0 GPA, 100% Scholarship) · **Harvard University** · **Amity University** (BS Computer Science, 100% Scholarship)
+- 🎓 **Purdue University** (MS, 4.0 GPA, 100% Scholarship)
 - 📝 Published researcher — statistical analysis on hepatic manifestations of COVID-19 and celiac disease diagnostics
 - 🏅 **Certified Product Manager** (Product School) · **Six Sigma Black Belt** · **PROSCI Change Management** · **Epic Certified Project Manager**
 - 🧠 Passionate about **applied AI** — intelligent tooling, decision-support systems, automation layers, and AI-native user experiences
